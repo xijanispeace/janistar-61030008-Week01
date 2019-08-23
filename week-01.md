@@ -299,13 +299,14 @@ __1.6.1 การ push ขึ้นสู่ server__
 
 <p align="center">  <img src="./images/fig 1-20.png"> </p>
 ผลการทดลอง
-<p align="center">  <img src="./images/1.20.PNG"> </p>
+<p align="center">  <img src="./images/1.20.1.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-20 </b>ผลจากการทำคำสั่ง git push</p>
 
 เมื่อเราทำการ push repository ขึ้นสู่ server แล้ว ก็ต้องทดสอบผลจากการ push  โดยการไป refresh web browser ที่สร้าง repository ไว้ ดังรูปที่ 9
 
 <p align="center">  <img src="./images/fig 1-21.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.21.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-21 </b>การเปลี่ยนแปลงที่เกิดขึ้นบน server</p>
 
 __1.6.2 การ pull มาจาก server__
@@ -314,13 +315,15 @@ __1.6.2 การ pull มาจาก server__
 ให้แก้ไขไฟล์ README.md โดยการคลิกที่ชื่อไฟล์ และปุ่มปากกาบริเวณด้านขวามือ
 
 <p align="center">  <img src="./images/fig 1-22.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.22.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-22 </b>เข้าสู่โหมดการแก้ไขไฟล์ด้วย Github Text Editor</p>
 
 เพิ่มข้อความที่บรรทัดล่างสุดดังตัวอย่าง
 
 <p align="center">  <img src="./images/fig 1-23.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.23.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-23 </b>เพิ่มข้อความบางอย่างใน Github Text Editor</p>
 
 เพิ่มข้อความในช่อง Commit changes และกดปุ่ม Commit changes สีเขียว
