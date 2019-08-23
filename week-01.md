@@ -329,7 +329,8 @@ __1.6.2 การ pull มาจาก server__
 เพิ่มข้อความในช่อง Commit changes และกดปุ่ม Commit changes สีเขียว
 
 <p align="center">  <img src="./images/fig 1-24.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.24.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-24 </b>เพิ่มข้อความ Commit changes</p>
 
 กลับมาที่ git bash พิมพ์คำสั่ง git status สังเกตุผลการทำงาน
@@ -341,7 +342,8 @@ __1.6.2 การ pull มาจาก server__
     $ git pull
 
 <p align="center">  <img src="./images/fig 1-25.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.25.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-25 </b>การใช้คำสั่ง git pull</p>
 
 ดูการเปลี่ยนแปลงในไฟล์ README.md
@@ -349,7 +351,8 @@ __1.6.2 การ pull มาจาก server__
     $ notepad.exe README.md
 
 <p align="center">  <img src="./images/fig 1-26.png"> </p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.26.PNG"> </p>
 <p align="center"> <b>รูปที่ 1-26 </b>การเปลี่ยนแปลงในไฟล์เอกสาร  README.md</p>
 
 ### __1.7 การตรวจสอบประวัติการเปลี่ยนแปลงของไฟล์__
