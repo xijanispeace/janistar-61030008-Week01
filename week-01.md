@@ -366,7 +366,8 @@ __(ข)__ คลิกที่ปุ่ม History
 <p align="center">  <img src="./images/fig 1-27a.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-27 </b>การเข้าถึงประวัติของไฟล์</p>
-
+ผลการทดลอง
+<p align="center">  <img src="./images/1.27.PNG"> </p>
 เมื่อคลิกดูประวัติไฟล์ จะพบว่า  ไม่ว่าเราจะแก้ไขไฟล์ที่ไหน แต่ Git จะติดตามและบันทึกการเปลี่ยนแปลงทุกครั้งที่เราทำการ commit
 
 <p align="center">  <img src="./images/fig 1-27b.png"> </p>
