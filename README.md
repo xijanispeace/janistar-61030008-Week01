@@ -2,3 +2,4 @@
 Computer Laboratory 2561 - Lab 01 
 
 My name is Janistar pimpathong
+Edited by Githud Text Editor.
