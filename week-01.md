@@ -373,6 +373,12 @@ __(ข)__ คลิกที่ปุ่ม History
 <p align="center">  <img src="./images/fig 1-27b.png"> </p>
 
 <p align="center"> <b>รูปที่ 1-28 </b>ประวัติการแก้ไขไฟล์</p>
+ผลการทดลอง
+<p align="center">  <img src="./images/1.28.PNG"> </p>
+ผลการทดลอง
+<p align="center">  <img src="./images/1.29.PNG"> </p>
+ผลการทดลอง
+<p align="center">  <img src="./images/1.30.PNG"> </p>
 
 
 
